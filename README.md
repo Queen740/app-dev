@@ -7,6 +7,7 @@ My first repository
 ₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊₊✩‧₊˚౨ৎ˚₊✩‧₊
 
 ## ✨ Overview
+
 *My Apothecary Diaries* is a **historical mystery series** set in the imperial court of ancient China.  
 Follow **Maomao**, a clever apothecary, as she solves mysterious cases with her sharp mind, knowledge of medicine, and no-nonsense attitude.  
 
@@ -22,14 +23,38 @@ Follow **Maomao**, a clever apothecary, as she solves mysterious cases with her 
 
 ---
 
-## 👥 Main Characters
+## 👥 Meet the Main Characters
 
-| Character | Role | Fun Fact |
-|-----------|------|----------|
-| **Maomao** | Protagonist | Can sniff out clues in medicine like a pro!  |
-| **Jinshi** | Inspector | Loves solving mysteries but often gets outsmarted by Maomao |
-| **Kyou-Kyuu** | Court Noble | Loyal supporter, always amazed by Maomao’s brilliance  |
-| **Jinshi’s Colleagues** | Allies | Help Maomao in tricky situations  |
+### **Maomao** 🧠💊  
+*The brilliant apothecary of the imperial court.*  
+Maomao is clever, observant, and never misses a single detail. She uses her knowledge of medicine to solve mysterious cases that baffle everyone else.  
+
+![apothecary-mao2](https://github.com/user-attachments/assets/6bf5eeb0-cda6-4bfe-9705-33358dd140a2)
+
+
+### **Jinshi** 🕵️‍♂️  
+*Inspector of the imperial court.*  
+Jinshi is dedicated to solving cases, but Maomao’s cleverness often surprises him. Despite that, he respects her intelligence and often collaborates with her.  
+
+![apothecary-jinshi](https://github.com/user-attachments/assets/077c21da-2d28-4bed-8612-f096dda6e448)
+
+
+### **Kyou-Kyuu** 👑  
+*Court noble and loyal supporter.*  
+Kyou-Kyuu admires Maomao’s skill and often provides help in tricky situations. Calm, composed, and reliable, he is the perfect ally for Maomao.  
+
+![apothecary-kyou](https://github.com/user-attachments/assets/7432c5a2-d7fe-4597-8006-9dd263162387)
+
+Meet the **powerful women of the imperial court**! Each has her own style, influence, and secrets:  
+
+- **Empress Dowager** 👸 – The authoritative matriarch who commands respect and fear.  
+- **Empress 1** 👑 – Elegant, poised, and influential in court politics.  
+- **Empress 2** 👑 – Strategic, clever, and always plotting subtly.  
+- **Empress 3** 👑 – Charismatic, charming, and influential socially.  
+- **Empress 4** 👑 – Mysterious and unpredictable; her intentions are often hidden.  
+
+![apothecary- 4 empresses](https://github.com/user-attachments/assets/93b0aa24-118b-4cb9-b67a-3df78e376f6a)
+
 
 ---
 
@@ -38,19 +63,4 @@ Follow **Maomao**, a clever apothecary, as she solves mysterious cases with her 
 2. **Episode 5:** Secrets of the imperial court are revealed 👑  
 3. **Episode 8:** Maomao uncovers a **hidden medicinal formula** 🧪  
 
----
 
-## 🎉 Fun Facts & Extras
-
-- JSON example of the series info:
-
-```json
-{
-  "series": "My Apothecary Diaries",
-  "format": ["Anime", "Novel"],
-  "genre": ["Mystery", "Historical", "Drama"]
-}
-
-  "format": ["Anime", "Novel"],
-  "genre": ["Mystery", "Historical", "Drama"]
-}
