@@ -43,7 +43,8 @@ Jinshi is dedicated to solving cases, but Maomao’s cleverness often surprises 
 *Court noble and loyal supporter.*  
 Kyou-Kyuu admires Maomao’s skill and often provides help in tricky situations. Calm, composed, and reliable, he is the perfect ally for Maomao.  
 
-![apothecary](https://github.com/user-attachments/assets/24d1d96f-e7e2-4a8f-8361-bbad72ff195f)
+![apothecary-kyou](https://github.com/user-attachments/assets/ed87cb11-dcc8-4ca2-93e5-a9dd1919775f)
+
 
 
 Meet the **powerful women of the imperial court**! Each has her own style, influence, and secrets:  
@@ -54,7 +55,8 @@ Meet the **powerful women of the imperial court**! Each has her own style, influ
 - **Empress 3** 👑 – Charismatic, charming, and influential socially.  
 - **Empress 4** 👑 – Mysterious and unpredictable; her intentions are often hidden.  
 
-![apothecary- 4 empresses](https://github.com/user-attachments/assets/93b0aa24-118b-4cb9-b67a-3df78e376f6a)
+![apothecary](https://github.com/user-attachments/assets/24d1d96f-e7e2-4a8f-8361-bbad72ff195f)
+
 
 
 ---
